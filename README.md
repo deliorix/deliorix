@@ -12,4 +12,4 @@ Hi there, welcome to my profile 👋 I'm Nikolay, 17 years old and from Russia. 
 * ![alt text](https://camo.githubusercontent.com/77f10ba036ea9d5845b77e4d9b739649a236fa8b/68747470733a2f2f692e696d6775722e636f6d2f52416a5a7251622e706e67 "Steam Logo") **Steam** - [id/wallflowersss](https://steamcommunity.com/id/wallflowersss)
 * You can also reach me via [forum](https://gamesense.su/forums/) DMs but I usually don't check them more than once or twice a day.
 
-### Also i'm moderator of gamesense.su and you can contact me through e-mail: deliorix@gamesense.su
+#### Also i'm moderator of gamesense.su and you can contact me through this e-mail: deliorix@gamesense.su
