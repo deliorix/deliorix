@@ -1,4 +1,3 @@
-# **ｄｅｌｉｏｒｉｘ**
 ![alt text][logo]
 
 [logo]: https://i.imgur.com/VWuvFrt.jpg "Logo title"
